@@ -1,4 +1,0 @@
-Sitemap: https://mauricioalgalan.github.io/blog/sitemapindex.xml
-
-User-Agent: *
-Host: mauricioalgalan.github.io
